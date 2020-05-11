@@ -4,7 +4,7 @@
     "theme_color": "#2185d0",
     "background_color": "#2185d0",
     "display": "standalone",
-    "start_url": "https://maddymastering.github.io/pwa/",
+    "start_url": "/",
     "icons": [
         {
             "src": "icons/icon-144x144.png",
