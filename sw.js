@@ -44,9 +44,6 @@ this.addEventListener('fetch', event => {
                     return response;
                 });
             });
-        }).catch((err) => {
-            console.log(err);
-            caches.match('/fallback.html')
         })
     )
 });
