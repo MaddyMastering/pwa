@@ -1,4 +1,5 @@
 const assets = [
+    '/',
     'index.html',
     'index.css',
     'index.js',
