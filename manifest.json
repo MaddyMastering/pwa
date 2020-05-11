@@ -1,0 +1,29 @@
+{
+    "name": "Dogily E-Commerce Webapp",
+    "short_name": "Dogily",
+    "theme_color": "#2185d0",
+    "background_color": "#2185d0",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "./icons/favicon_ms-icon-144x144.png",
+            "type": "png",
+            "sizes": "144x144",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "icons/icon-192x192.png",
+            "type": "png",
+            "sizes": "192x192",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "./icons/icon-512x512.png",
+            "type": "png",
+            "sizes": "512x512",
+            "purpose": "maskable any"
+        }
+    ]
+}

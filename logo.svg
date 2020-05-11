@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32.674" height="31.433" viewBox="0 0 32.674 31.433">
+  <g id="Paw" transform="translate(0)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="2.5" cy="2.5" r="2.5" transform="translate(17.486 1)" fill="#2185d0"/>
+    <path id="Path_102" data-name="Path 102" d="M22.244,7.267c-1.45-1.7-2.667-3.15-4.133-4.85a7.071,7.071,0,0,0-2.917-2.2,3.374,3.374,0,0,0-.55-.15A8.388,8.388,0,0,0,13.344,0a6.992,6.992,0,0,0-1.317.083,3.374,3.374,0,0,0-.55.15,7.18,7.18,0,0,0-2.917,2.2c-1.45,1.7-2.667,3.15-4.133,4.85C2.244,9.467-.439,11.883.061,15.267a5.233,5.233,0,0,0,3.883,3.867c1.217.25,5.1-.733,9.233-.733h.3c4.133,0,8.017.967,9.233.733a5.258,5.258,0,0,0,3.883-3.867c.517-3.4-2.167-5.817-4.35-8Z" transform="translate(0 14.828) rotate(-30)" fill="#2185d0"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="2.5" cy="2.5" r="2.5" transform="translate(8.486)" fill="#2185d0"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="2.5" cy="2.5" r="2.5" transform="translate(1.486 5)" fill="#2185d0"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="2.5" cy="2.5" r="2.5" transform="translate(0.486 13)" fill="#2185d0"/>
+  </g>
+</svg>
