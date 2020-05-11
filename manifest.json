@@ -4,11 +4,10 @@
     "theme_color": "#2185d0",
     "background_color": "#2185d0",
     "display": "standalone",
-    "scope": "/",
-    "start_url": "/",
+    "start_url": "https://maddymastering.github.io/pwa/",
     "icons": [
         {
-            "src": "./icons/favicon_ms-icon-144x144.png",
+            "src": "icons/icon-144x144.png",
             "type": "png",
             "sizes": "144x144",
             "purpose": "maskable any"
@@ -20,7 +19,7 @@
             "purpose": "maskable any"
         },
         {
-            "src": "./icons/icon-512x512.png",
+            "src": "icons/icon-512x512.png",
             "type": "png",
             "sizes": "512x512",
             "purpose": "maskable any"
