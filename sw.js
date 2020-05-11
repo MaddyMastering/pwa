@@ -45,6 +45,10 @@ this.addEventListener('fetch', event => {
                     return response;
                 });
             });
-        }).catch(() => caches.match('fallback.html'))
+        }).catch(() => {
+            if(event.request.url.indexOf('.html') > -1) {
+                return caches.match('fallback.html');
+            }
+        })
     )
 });
